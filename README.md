@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @icehuntmen
-- 👀 I’m interested in NodeJS and Golang
-- 🌱 I’m currently learning Apache Kafka
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![GitHub Streak](https://streak-stats.demolab.com?user=icehuntmen&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 <!---
 icehuntmen/icehuntmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
