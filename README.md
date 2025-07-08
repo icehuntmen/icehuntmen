@@ -1,11 +1,15 @@
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Golang logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,js,ts,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,nestjs,nodejs,nginx" />
+  </a>
+</p>
+
 
 ###
 
@@ -20,7 +24,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+
 </div>
 
 
