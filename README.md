@@ -5,7 +5,7 @@
 </p>
 <h2>Backend Developer</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,nginx,mongodb,mysql,postgresql,sentry,redis,kafka,ipfs,discordjs,bots" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,nginx,mongodb,mysql,postgresql,sentry,redis,kafka,ipfs,graphql,discordjs,bots" />
 </p>
 
 <p align="center">
